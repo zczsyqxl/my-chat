@@ -288,5 +288,5 @@ class ChatWindow(wx.Frame):
                        
 if __name__ == "__main__":
     app = wx.App()
-    newWin = ChatWindow(None, title='ZZ_CHAT')
+    newWin = ChatWindow(None, title='Test')
     app.MainLoop()
